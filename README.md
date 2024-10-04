@@ -1,3 +1,4 @@
+# by : Mohamed fares
 # Heart Disease Level Prediction
 
 This repository contains the code and model for predicting heart disease severity levels using machine learning. The project aims to provide a user-friendly interface to input health data and predict whether a person has heart disease or not.
